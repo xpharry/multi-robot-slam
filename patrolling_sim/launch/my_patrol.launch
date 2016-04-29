@@ -1,0 +1,7 @@
+<launch>
+
+	<include file="$(find patrolling_sim)/launch/map.launch">
+		<arg name="map" default="cumberland" />
+	</include>
+
+</launch>

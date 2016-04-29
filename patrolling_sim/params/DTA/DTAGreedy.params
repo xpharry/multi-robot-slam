@@ -1,0 +1,17 @@
+[SECTION Main]
+
+PROFILE default
+
+
+[END]
+
+
+[PROFILE default]
+
+theta_idleness      1.0
+theta_navigation    -0.75
+theta_distance_from_origin      -5.0
+
+[END]
+
+

@@ -1,0 +1,8 @@
+<launch>
+  <param name="amcl/initial_pose_x" value="56.0"/>
+  <param name="amcl/initial_pose_y" value="63.5"/>
+  <param name="amcl/initial_pose_a" value="1.57079632679"/>
+  <param name="thin_localizer/initial_pose_x" value="56.0"/>
+  <param name="thin_localizer/initial_pose_y" value="63.5"/>
+  <param name="thin_localizer/initial_pose_theta" value="1.57079632679"/>
+</launch>

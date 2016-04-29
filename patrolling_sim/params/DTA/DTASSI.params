@@ -1,0 +1,21 @@
+[SECTION Main]
+
+PROFILE default
+
+[END]
+
+[PROFILE default]
+
+timeout             3.0
+theta_idleness      1.0
+theta_hop           -2.0 
+
+theta_navigation    0.0
+threshold           0.0
+hist                0.0
+
+[END]
+
+
+
+

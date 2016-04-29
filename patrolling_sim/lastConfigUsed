@@ -1,0 +1,3 @@
+[Config]
+nrobots: 4
+algorithm: HCR
